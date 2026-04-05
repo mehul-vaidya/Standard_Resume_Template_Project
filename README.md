@@ -5,6 +5,7 @@ This project aims to create a **standard JSON-based resume template**.
 The goal is to simplify the hiring process for both **job seekers** and **employers** by introducing a **universal, structured resume format**.
 
 ---
+![Project Demo](images/JSON_resume_flow.png)
 
 ## 🚀 How Will It Help Job Seekers?
 
