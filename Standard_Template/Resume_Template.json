@@ -1,0 +1,57 @@
+{
+  "name": "",
+  "email": "",
+  "phone": "",
+  "summary": "",
+
+  "work_experience": [
+    {
+      "company_name": "",
+      "start_date": "",
+      "end_date": "",
+      "description": ""
+    }
+  ],
+
+  "education": [
+    {
+      "college_or_school_name": "",
+      "course_name": "",
+      "start_date": "",
+      "end_date": "",
+      "marks": ""
+    }
+  ],
+
+  "skills": [
+    ""
+  ],
+
+  "projects": [
+    {
+      "project_name": "",
+      "description": "",
+      "technologies_used": []
+    }
+  ],
+
+  "certificates": [
+    {
+      "course_name": "",
+      "institute": "",
+      "completion_date": ""
+    }
+  ],
+
+  "achievements": [
+    ""
+  ],
+
+  "languages": [
+    ""
+  ],
+
+  "portfolio_links": [
+    ""
+  ]
+}

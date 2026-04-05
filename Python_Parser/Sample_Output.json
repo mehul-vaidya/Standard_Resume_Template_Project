@@ -1,0 +1,95 @@
+{
+  "name": "Mehul Vaidya",
+  "email": "mehulvaidya94@gmail.com",
+  "phone": "11111111",
+  "summary": "Result-driven Team Lead with 9+ years of experience leading software development, data analytics, and AI/ML initiatives across BFSI and tech sectors. Proven ability to lead cross-functional teams, deliver complex projects, and drive business outcomes. Strong background in backend systems, BI, automation, and client engagement. M.Tech. in Computer Science from IIT Kharagpur. PMP certified.",
+
+  "work_experience": [
+    {
+      "company_name": "Citigroup",
+      "start_date": "July 2022",
+      "end_date": "Present",
+      "description": "Improved order lifecycle performance by 30–40% through backend modernization in Citi Equity Trading systems. Reduced production latency diagnosis time by 50%+ by leading Python-based automation. Accelerated release cycles by 25% by migrating deployments to OpenShift and enforcing Agile delivery. Developed ML model improving trade validation accuracy by 35% and reducing failed orders by 20%."
+    },
+    {
+      "company_name": "Persistent Systems",
+      "start_date": "July 2016",
+      "end_date": "July 2022",
+      "description": "Managed BI development for 6+ enterprise clients including Microsoft and Empirix. Delivered Microsoft IPCosell BI solution managing $1B+ pipeline and reduced manual effort by 90%. Led ML/NLP-based fraud detection and sales prediction features. Acted as liaison between technical teams and business stakeholders."
+    }
+  ],
+
+  "education": [
+    {
+      "college_or_school_name": "Indian Institute of Technology, Kharagpur",
+      "course_name": "M.Tech. Computer Science",
+      "start_date": "2020",
+      "end_date": "2022",
+      "marks": "8.35/10"
+    },
+    {
+      "college_or_school_name": "Vishwakarma Institute of Technology, Pune",
+      "course_name": "B.Tech. Computer Science",
+      "start_date": "2012",
+      "end_date": "2016",
+      "marks": "8.2/10"
+    }
+  ],
+
+  "skills": [
+    "Java",
+    "Spring Boot",
+    "REST",
+    "Kafka",
+    "AWS",
+    "Docker",
+    "OpenShift",
+    "Kubernetes",
+    "Jenkins",
+    "Microservices Architecture",
+    "SQL",
+    "ETL",
+    "BI",
+    "Data Structures & Algorithms",
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "RAG",
+    "TensorFlow",
+    "LLMs",
+    "Agile",
+    "Scrum",
+    "CI/CD"
+  ],
+
+  "projects": [
+    {
+      "project_name": "Stock Exchange Simulation",
+      "description": "Stock exchange simulation where four stocks are traded and settlement is handled using a priority queue.",
+      "technologies_used": ["Java", "Microservices", "Spring Boot", "Kafka", "Docker", "Angular"]
+    },
+    {
+      "project_name": "Enterprise-Grade RAG Platform for Financial Data (SEC 10-K)",
+      "description": "End-to-end RAG system for querying SEC 10-K filings using FAISS, cross-encoder reranking, and local LLM with citations.",
+      "technologies_used": ["FAISS", "LLM", "RAG", "NLP"]
+    },
+    {
+      "project_name": "LLM-driven Autonomous SQL Analytics System",
+      "description": "System where LLM agents generate, verify, and execute SQL queries from natural language, with reporting and trace logging.",
+      "technologies_used": ["FastAPI", "LLM", "Ollama", "SQL"]
+    }
+  ],
+
+  "certificates": [
+    {
+      "course_name": "Project Management Professional (PMP)",
+      "institute": "",
+      "completion_date": "Valid till Sep 2028"
+    }
+  ],
+
+  "portfolio_links": [
+    "https://www.linkedin.com/in/mehul-vaidya",
+    "https://github.com/mehul-vaidya"
+  ]
+}
